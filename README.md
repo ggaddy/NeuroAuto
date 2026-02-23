@@ -2,6 +2,7 @@
 NeuroAuto is an automation framework designed with reliability and scalability in mind.
 
 #### System Diagram
+```
 ┌─────────────────────────────────────────────────────────────────────────┐                   
 │ NeuroAuto                                                               │                   
 │                                                                         │   ┌──────────────┐
@@ -21,3 +22,4 @@ NeuroAuto is an automation framework designed with reliability and scalability i
 │                                                                         │                   
 │                                                                         │                   
 └─────────────────────────────────────────────────────────────────────────┘                   
+```
