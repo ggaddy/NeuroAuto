@@ -1,4 +1,3 @@
-#### Purpose
 NeuroAuto is an automation framework designed with reliability and scalability in mind.
 
 #### System Diagram
